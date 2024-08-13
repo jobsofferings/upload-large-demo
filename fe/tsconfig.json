@@ -3,6 +3,7 @@
     "baseUrl": "./",
     "outDir": "build/dist",
     "target": "es5",
+    "downlevelIteration": true,
     "lib": [
       "dom",
       "dom.iterable",
